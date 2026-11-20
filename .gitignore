@@ -1,0 +1,5 @@
+node_modules
+dist
+*.local
+# Nunca versionar cofres ou backups
+*.chavemestra
